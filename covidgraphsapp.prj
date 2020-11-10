@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="3550285814" file="C:\Users\philb\Year12\IT\Sem2\Assignment 2\Data-Science-Project\covidgraphsapp.prj" location="C:\Users\philb\Year12\IT\Sem2\Assignment 2\Data-Science-Project" name="covidgraphsapp" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="1508784250" file="C:\Users\philb\Year12\IT\Sem2\Assignment 2\Data-Science-Project\covidgraphsapp.prj" location="C:\Users\philb\Year12\IT\Sem2\Assignment 2\Data-Science-Project" name="covidgraphsapp" target="target.mlapps" target-name="Package App">
     <param.appname>covidgraphsapp</param.appname>
     <param.authnamewatermark>Philip Caisip</param.authnamewatermark>
     <param.email>0067594@schoolsnet.act.edu.au</param.email>
@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary />
     <param.description />
-    <param.screenshot>C:\Users\philb\AppData\Local\Temp\tp5da55b9a_d4c4_4b6f_b2fe_7977daf96a0d.png</param.screenshot>
+    <param.screenshot>C:\Users\philb\AppData\Local\Temp\tpc3b3b2e3_bcac_4ffa_bb9d_b718356a136b.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
